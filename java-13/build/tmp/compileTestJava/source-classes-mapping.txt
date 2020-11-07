@@ -1,0 +1,4 @@
+br/com/codenation/calculadora/CalculadoraSalarioTest.java
+ br.com.codenation.calculadora.CalculadoraSalarioTest
+br/com/codenation/calculadora/CalculadoraSalarioSubmitTest.java
+ br.com.codenation.calculadora.CalculadoraSalarioSubmitTest
